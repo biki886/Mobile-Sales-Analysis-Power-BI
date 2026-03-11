@@ -40,7 +40,7 @@ The dashboard helps to:
 
 ## Dashboard Preview
 
-![Mobile Sales Dashboard](screenshots/dashboard.png)
+![Mobile Sales Dashboard](Mobile Sales Dashboard.jpg)
 
 ---
 
